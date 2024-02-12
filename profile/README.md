@@ -2,4 +2,4 @@
 
 
 ## 開発中のプロダクト
-- 出席管理アプリケーション
+- [出席管理アプリケーション](https://github.com/AppTeam-for-WINC/Circle-Logpost)
